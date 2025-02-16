@@ -1,15 +1,11 @@
 {
   "name": "idsa_backend",
   "version": "1.0.0",
-    "engines": {
-    "node": "20.17.0"
-  },
+  
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node src/server.js",
-    "build": "npm install && npm run build", 
-    "vercel-build": "npm run build"
+"scripts": { 
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
