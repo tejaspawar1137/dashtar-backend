@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-"build": "npm install && (cd news-paper && npm install && npm run build || echo 'Skipping build')"
+"build": "npm install"
   },
   "keywords": [],
   "author": "",
